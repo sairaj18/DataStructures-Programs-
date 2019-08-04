@@ -1,2 +1,2 @@
-# DataStructures-Programs-
+# DataStructuresPrograms
 DS programs to learn
